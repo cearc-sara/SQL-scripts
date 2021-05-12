@@ -1,1 +1,1 @@
-# databases
+# SQL scripts
