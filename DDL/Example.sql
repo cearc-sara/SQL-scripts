@@ -27,3 +27,7 @@ CREATE TABLE orders(
     FOREIGN KEY(fk_customer_id) REFERENCES customers(customer_id),
     FOREIGN KEY(fk_product_id) REFERENCES products(product_id)
 );
+
+SHOW TABLES;
+DESCRIBE customers;
+
